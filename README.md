@@ -2,33 +2,35 @@
 
 
  
-Outline of proposed Solution
-1a. tech idea proposition 
+## Outline of proposed Solution
 
-Value Proposition:
+# 1a. tech idea proposition 
+
+# Value Proposition:
 The web app will be able to allow recruiters to connect with an immediate talent for hbcu football athletes. A network where it can provide student-athletes more recognition based on their highlights in their profile. 
 
-Accessibility: 
+# Accessibility: 
 A website will be created to ensure most will be able to access the page. Mobile Applications will not be as efficient regarding the number of people who would be able to use the page. Non-functional requirements will be easier to validate on a web platform.
 
 
 
-Web Platform:
+# Web Platform:
 Making a website that will allow hbcu students to be able to have a platform where they can be able to show their athletic highlights. The website will also have a feature that will be able to display the players of the week, a band of the week, College game day, and other events. The platform will allow more hbcu athletics to be better recognized.
 
-Social Media:
+# Social Media:
 Utilize major social media platforms such as twitter, instagram etc. to advertise the website.
  
-Functional requirements:
+## Functional requirements:
 Users can sign in to the HBCU NFL portal
  Student athletes/ recruiters
-Users can edit their profile
-Add highlights
-Recruiters can view and favorite student-athlete pages
-Users can locate and register for business opportunities for professional development
-Users can view conference game schedule
-Users can view highlighted games and events on the home screen
-Alumni will have access to view the events and conferences 
+
+# Users can edit their profile
+  - Add highlights
+# Recruiters can view and favorite student-athlete pages
+ - Users can locate and register for business opportunities for professional development
+ - Users can view conference game schedule
+ - Users can view highlighted games and events on the home screen
+ - Alumni will have access to view the events and conferences 
 
 User Case
 User Sign in
