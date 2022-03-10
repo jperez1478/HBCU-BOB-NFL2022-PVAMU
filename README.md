@@ -31,3 +31,9 @@ Users can sign in to the HBCU NFL portal
  - Users can view conference game schedule
  - Users can view highlighted games and events on the home screen
  - Alumni will have access to view the events and conferences 
+
+# Development 
+- use cases 
+
+<img width="513" alt="Screen Shot 2022-03-10 at 1 47 05 PM" src="https://user-images.githubusercontent.com/61983873/157742949-7c97e528-a936-4c0c-9406-92fbc35a3589.png">
+
