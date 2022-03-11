@@ -43,8 +43,9 @@ https://user-images.githubusercontent.com/61983873/157829804-c7ed4e93-c930-4545-
 
 # Demo of the web/App
 
-https://www.dropbox.com/s/3v7rnjpzmvzbyml/Screen%20Recording%202022-03-11%20at%202.38.54%20AM%202.mov?dl=0
 
 
+
+<img width="291" alt="Web_Demo" src="https://user-images.githubusercontent.com/61983873/157840746-08f05060-815b-4249-b0c1-bab169f44f4b.png">
 
 
