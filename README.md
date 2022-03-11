@@ -43,6 +43,8 @@ https://user-images.githubusercontent.com/61983873/157829804-c7ed4e93-c930-4545-
 
 # Demo of the web/App
 
+# scan qr code and click the " Please process to web "
+
 
 
 
