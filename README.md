@@ -37,3 +37,9 @@ Users can sign in to the HBCU NFL portal
 
 <img width="513" alt="Screen Shot 2022-03-10 at 1 47 05 PM" src="https://user-images.githubusercontent.com/61983873/157742949-7c97e528-a936-4c0c-9406-92fbc35a3589.png">
 
+
+https://user-images.githubusercontent.com/61983873/157829804-c7ed4e93-c930-4545-abfd-6a24e9471467.mp4
+
+
+
+
