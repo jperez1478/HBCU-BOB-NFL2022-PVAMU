@@ -126,21 +126,21 @@ Create a website that provides a direct connection between recruiters and HBCU a
 ## Launch Screen Recruiters Web Portal Accesibility 
 
 
-<img width="601" alt="Screen Shot 2022-03-11 at 4 16 44 AM" src="https://user-images.githubusercontent.com/61983873/157848679-f0787a2f-84e2-4b8f-a2a4-74423f89912b.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 16 44 AM" src="https://user-images.githubusercontent.com/61983873/157848679-f0787a2f-84e2-4b8f-a2a4-74423f89912b.png">
 
 
 * Recruiters Authentication
 
 
-<img width="283" alt="Screen Shot 2022-03-11 at 4 17 37 AM" src="https://user-images.githubusercontent.com/61983873/157850085-6ffcd3dd-229a-4fb6-a665-54831f0e27d2.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 17 37 AM" src="https://user-images.githubusercontent.com/61983873/157850085-6ffcd3dd-229a-4fb6-a665-54831f0e27d2.png">
 
 * Recruiters Dashboard
 
-<img width="604" alt="Screen Shot 2022-03-11 at 4 17 06 AM" src="https://user-images.githubusercontent.com/61983873/157851647-02523d17-d804-40a4-bcda-24115664b6f2.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 17 06 AM" src="https://user-images.githubusercontent.com/61983873/157851647-02523d17-d804-40a4-bcda-24115664b6f2.png">
 
 * Recruiter enagement by hosting events or about hbcus big events
 
-<img width="283" alt="Screen Shot 2022-03-11 at 4 18 45 AM" src="https://user-images.githubusercontent.com/61983873/157849941-9dfee040-9398-42d7-863d-61c8ab38a674.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 18 45 AM" src="https://user-images.githubusercontent.com/61983873/157849941-9dfee040-9398-42d7-863d-61c8ab38a674.png">
 
 
 
@@ -148,38 +148,45 @@ Create a website that provides a direct connection between recruiters and HBCU a
 
 * Recruiters will have access to be able to search through all diversity talent by having filters 
 
-<img width="283" alt="Screen Shot 2022-03-11 at 4 18 05 AM" src="https://user-images.githubusercontent.com/61983873/157850213-02408573-3488-4e27-a594-97f50a5a2444.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 18 05 AM" src="https://user-images.githubusercontent.com/61983873/157850213-02408573-3488-4e27-a594-97f50a5a2444.png">
 
 * they will be able to see more of this athlets besides just atheltic talent who are this students 
 
-<img width="283" alt="Screen Shot 2022-03-11 at 4 19 33 AM" src="https://user-images.githubusercontent.com/61983873/157850945-2f51e37d-08bf-45c0-9486-de236154fd79.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 19 33 AM" src="https://user-images.githubusercontent.com/61983873/157850945-2f51e37d-08bf-45c0-9486-de236154fd79.png">
 
 
 ## Whats in it for recruiters? 
 * To showccase their own personal contribution and achievemnts thrugh the discovery of diverse talent through this network pipeline
 
-<img width="282" alt="Screen Shot 2022-03-11 at 4 19 45 AM" src="https://user-images.githubusercontent.com/61983873/157851074-974844b5-04c6-4ead-9f45-d7e1b8c25c46.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 19 45 AM" src="https://user-images.githubusercontent.com/61983873/157851074-974844b5-04c6-4ead-9f45-d7e1b8c25c46.png">
 
 
-<img width="282" alt="Screen Shot 2022-03-11 at 4 19 45 AM" src="https://user-images.githubusercontent.com/61983873/157850756-09b5a254-9042-4db6-91af-b979772c69ad.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 19 45 AM" src="https://user-images.githubusercontent.com/61983873/157850756-09b5a254-9042-4db6-91af-b979772c69ad.png">
 
-<img width="285" alt="Screen Shot 2022-03-11 at 4 19 33 AM" src="https://user-images.githubusercontent.com/61983873/157850780-5e7fce6b-8f72-40d3-9c47-b560195385b9.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 19 33 AM" src="https://user-images.githubusercontent.com/61983873/157850780-5e7fce6b-8f72-40d3-9c47-b560195385b9.png">
 
 ## Subscription for recruting engament 
-<img width="239" alt="Screen Shot 2022-03-11 at 4 20 08 AM" src="https://user-images.githubusercontent.com/61983873/157851482-c7bd4dfe-5d77-4846-8090-8c0e94ae2235.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 20 08 AM" src="https://user-images.githubusercontent.com/61983873/157851482-c7bd4dfe-5d77-4846-8090-8c0e94ae2235.png">
 
 
 ## Student's Portal 
 
+* Students Authentication 
 
-<img width="314" alt="Screen Shot 2022-03-11 at 4 43 11 AM" src="https://user-images.githubusercontent.com/61983873/157852411-123fed84-1f26-444b-a00d-80e1e0b5c873.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 16 44 AM" src="https://user-images.githubusercontent.com/61983873/157851991-b64ddfb3-4b2f-4a37-805e-7b518756fa0d.png">
 
-
-<img width="400" alt="Screen Shot 2022-03-11 at 4 16 44 AM" src="https://user-images.githubusercontent.com/61983873/157851991-b64ddfb3-4b2f-4a37-805e-7b518756fa0d.png">
 
 * students dashboard
 
-<img width="400" alt="Screen Shot 2022-03-11 at 4 42 27 AM" src="https://user-images.githubusercontent.com/61983873/157852223-699bb6b7-bea0-4657-be0d-f1b0c44f4e10.png">
+<img width="600" alt="Screen Shot 2022-03-11 at 4 42 27 AM" src="https://user-images.githubusercontent.com/61983873/157852223-699bb6b7-bea0-4657-be0d-f1b0c44f4e10.png">
+
+
+* Students profile 
+
+<img width="600" alt="Screen Shot 2022-03-11 at 4 43 11 AM" src="https://user-images.githubusercontent.com/61983873/157852411-123fed84-1f26-444b-a00d-80e1e0b5c873.png">
+
+
+
 
 
 
